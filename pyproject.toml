@@ -1,0 +1,12 @@
+[project]
+name = "network-dashboard"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.3.3",
+    "plotly>=6.3.1",
+    "scapy>=2.6.1",
+    "streamlit>=1.50.0",
+]
